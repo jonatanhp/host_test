@@ -1,0 +1,37 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.maintittle{
+    background-color: black ;
+    font-size: 1px;
+    width: 100vw;
+    line-height: 1.5;
+    font-family: 'Lobster';
+    font-weight: 100;
+    color: rgb(130, 156, 90);
+}
+.maintittle_h1{
+    font-size: 50em;
+    
+}
+.button{
+    font-family: 'Lobster', cursive;
+    color: blueviolet;
+}
+.footer{
+    /*font-family: 'Staatliches', cursive;*/
+    font-family: 'Staatliches';
+    color: rgb(128, 86, 86);
+}
+button{
+    color: blueviolet;
+    font-family: 'Lobster', cursive;
+}
+.login{
+    color: cyan;
+}
+input{
+    color: darkorchid;
+}
